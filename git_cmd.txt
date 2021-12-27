@@ -1,5 +1,5 @@
 
-echo "# web_project_4" >> README.mdgit push -u origin master
+echo "# web_project_4" >> README.md
 git init
 git add . [ note: '.' means all you can also use file name ] 
 git commit -m "first commit"
