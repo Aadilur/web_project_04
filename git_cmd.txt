@@ -1,0 +1,10 @@
+
+echo "# web_project_4" >> README.mdgit push -u origin master
+git init
+git add . [ note: '.' means all you can also use file name ] 
+git commit -m "first commit"
+git config --global user.email "hardnut103@gmail.com"
+git config --global user.name "Aadilur"
+git commit -m "first commit"
+git remote add origin https://github.com/Aadilur/web_project_04.git
+git push -u origin master
